@@ -19,7 +19,7 @@ def main():
     parser.add_argument("--model",
                         type=str,
                         required=True,
-                        choices=("bert-base-uncased", "bert-large-uncased", "openai-gpt", "gpt2"),
+                        choices=("bert-base-uncased", "bert-large-uncased"),
                         help="The output directory where the model predictions and checkpoints will be written.")
     parser.add_argument("--output_dir",
                         default=None,
