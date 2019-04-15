@@ -1,0 +1,500 @@
+1 partner's persona: bride of chucky is the best film out there.
+2 partner's persona: my wife works , so i take care of our children.
+3 partner's persona: i dad was an employee of a big diy store.
+4 partner's persona: for ten years i was employed in meeting peoples needs.
+5 partner's persona: my kid finished his elementary education last year.
+6 hello what are doing today ?	i am good , i just got off work and tired , i have two jobs .
+7 i just got done watching a horror movie	i rather read , i have read about 20 books this year .
+8 wow ! i do love a good horror movie . loving this cooler weather	but a good movie is always good .
+9 yes ! my son is in junior high and i just started letting him watch them too	i work in the movies as well .
+10 neat ! ! i used to work in the human services field	yes it is neat , i stunt double , it is so much fun and hard work .
+11 yes i bet you can get hurt . my wife works and i stay at home	nice , i only have one parent so now i help out my mom .
+12 i bet she appreciates that very much .	she raised me right , i'm just like her .
+13 my dad was always busy working at home depot	now that i am older home depot is my toy r us .
+1 partner's persona: i donate my time to helping those who are less fortunate.
+2 partner's persona: i'm social with others.
+3 partner's persona: i help out for free whenever i can.
+4 partner's persona: i got to the gym all the time.
+5 partner's persona: i am a wwe superstar.
+6 hi ! how are you doing tonight ?	i'm doing great . just relaxing with my two dogs .
+7 great . in my spare time i do volunteer work .	that is neat . what kind of volunteer work do you do ?
+8 i work in a homeless shelter in my town .	good for you . do you like vintage cars ? i have two older mustangs .
+9 cool . not really into cars . my day job is wrestling .	cars are my thing . vintage cars . i love working on them . wrestling ? do you enjoy it ?
+10 yes , i love the crowds , getting to know people .	i didn't think about the crowd aspect of wrestling . i don't like crowds .
+11 understood . when i need to be alone , i work out a few times each week .	i agree . working out is a great way to burn off steam . do you like country music ?
+12 a little bit . i can get into taylor swift .	lol . she's more pop now . her old stuff was country . i like classic country .
+1 partner's persona: i have a spouse and a couple of children.
+2 partner's persona: i like to experience music live.
+3 partner's persona: i'm vegan.
+4 partner's persona: i'm a college finance graduate.
+5 partner's persona: i closed on a home not too long ago.
+6 hello , how are you doing ?	i love spending time with my family
+7 that is great , me too ! i'm married and my husband and i have 2 children .	so then have you ever been to disneyland ?
+8 no , we recently purchased a new house , so we cannot afford it . have you ?	yes i love mickey mouse such a cute little rat
+9 i enjoy going to concerts , i see the rolling stones every year .	man your lucky i am a baby delivery nurse and the pay sucks
+10 maybe you should consider going back to school . i did . i major in economics .	i've to walk 3 miles to work to save money everyday what do you do ?
+11 i mostly eat a fresh and raw diet , so i save on groceries .	your economic skills are amazing
+12 thank you very much ! i am sure you are a great nurse .	i am a ok nurse i have dripped some babies though but i am getting better
+1 partner's persona: i enjoy adventure sports.
+2 partner's persona: i do not have a high paying job.
+3 partner's persona: i'm very good at reading a compass.
+4 partner's persona: i like to read scientific studies about the human mind.
+5 partner's persona: my goal is to get a masters degree.
+6 hi how are you doing ? i'm okay how about you ?	i'm doing good . just sipping tea . what do you do for work ?
+7 i used to do home health aide but now i am disabled .	i am sorry to hear that . what happened
+8 i graduated and got my license worked a while and became i will .	so what do you do now for fun ? i like to read .
+9 i have dogs and i walk them . and a cat .	what kind of dogs do you have ?
+10 i enjoy reading read about michael jackson and psychology today .	i love reading . i've a big library at my house .
+11 that's very nice i love to read to and read about journals .	i've a tough time hearing so reading is my happy place .
+12 cool that's okay . my mom was very tough on me .	i work as a hearing impaired museum tour guide .
+1 partner's persona: i do not like working with the public.
+2 partner's persona: i like to look good.
+3 partner's persona: i lose consciousness when i see human internal fluids.
+4 partner's persona: i began college to become a vet but decided it wasn't for me.
+5 hi i dye my hair 4 times a year	do you live in the sky ? i do . in the clouds .
+6 no i do not , i've a dream , it is to work from home	i make time stop . i've a superpower . i'm a super hero .
+7 that is really cool that you can do that	i love living in the clouds the best . do you have powers ?
+8 no i do not , i faint when i see blood	i do not like blood . i vomit .
+9 i went to school to be a vet , but i didn't like it	i want to be a teacher when i grow up
+10 what is your name ? are you a male or female ?	i am a girl . i do not give out my name .
+11 i think a teacher is to tough	i like science and art .
+1 partner's persona: i leave my playpen unclean.
+2 partner's persona: i have an aquatic animal.
+3 partner's persona: i enjoy playing dress up and create lives for my toys.
+4 partner's persona: i am under 5 years old.
+5 hi ! do you like turtles ?	i'm much more of a cat person actually
+6 i've a turtle his name is speedy . kitties are nice too , tho !	that is an adorable name for a turtle . i've 2 cats
+7 what are your kitties names ?	snow and winter , named after my favorite season
+8 i like that ! i go to preschool .	oh you are so young !
+9 how old are you ? i turned four on my birthday !	i am an old woman . i won a gold medal in 1992
+10 wow ! ! you won gold ! are you rich ?	no . i spend all of my money on hats ! i own over a thousand
+11 i like hats too ! but , my favorite thing to do is play with my dollies .	that's great . do you have a lot ?
+1 partner's persona: i don't like to reveal things about myself.
+2 partner's persona: i don't enjoy christmas.
+3 partner's persona: i stand up for living things.
+4 partner's persona: my dead cell follicles on my head are different colors.
+5 partner's persona: i enjoy observing feathered creatures and petting my feline.
+6 hello , how are you tonight ? do you have pink and blue hair ?	hi , i am doing pretty good these evening
+7 what do you like to do in your spare time ? i bird watch .	i actually have purple hair and i love it and enjoy watching war documentaries
+8 those are fun . i have a cat , do you ?	i have a bird and she loves cheeseburgers like me , my favorite
+9 is that healthy for birds ?	probably not but a bite here and there i think is okay
+10 do you like the holidays ? i don't .	i do love the holidays i volunteer a soup kitchen during the holiday season
+11 i get depressed . how old are you ? i am very old .	oh man sorry about that , i am 33 and love giving back i grew up poor
+12 i did too , back during the great depression .	oh wow , i can imagine it was a very hard time
+13 it was , but it made us strong .	yes it really did , that is why i enjoy y volunteer work
+1 partner's persona: my children are important to me.
+2 partner's persona: i like catching up on new novels.
+3 partner's persona: i am a magic kingdom frequenter.
+4 partner's persona: i bring new life to this world.
+5 partner's persona: i do not run but i am active for more than 25.
+6 hi , how are you doing today ?	good ! you ! celebrating with fellow centenarians
+7 nice . i'm playing some card games with my family .	that sounds like fun . i like wine and dancing too !
+8 same . i try to get a small workout in a three mile walk for me is key .	awesome ! walking like that you might live forever like me ! !
+9 that's true . my favorite way to unwind is reading a book .	you sound very like minded , just add some wine
+10 which do you prefer white or red ?	fermented . i prefer well aged and fermented . i could bathe in it !
+11 good choice . i always like a nice dry white wine .	i think i should go grab a bottle now and get some dancing music on
+12 sounds like a good way to enjoy a sunday afternoon .	yes indeed . being a centenarian you learn to appreciate these things
+1 partner's persona: i am religious.
+2 partner's persona: i identify as a female.
+3 partner's persona: i am employed in the education industry.
+4 partner's persona: i've pets.
+5 hello , are you attending church in the morning ?	only if i can get a ride . i'm very old and cannot drive
+6 if i lived close , i'd take you . i teach sunday school .	how nice . you must love kids .
+7 i do . i do not have any , my dogs are my children .	would you like to know the secret to living as long as i've ?
+8 yes , please . that would be wonderful .	drinking wine , and dancing in the moonlight .
+9 very nice . i do both as well .	doing both of those things has helped me make it to my 100th birthday .
+10 oh wow . i hope i live as long as you !	i may be old , but i am stronger than i look !
+11 very nice to hear . women are often thought of as weak .	women weren't even allowed to vote when i was a child .
+12 that is truly awful . thankfully , things have since changed .	lots of things have changed . i remember when televisions weren't a common household item .
+1 partner's persona: i cut my own grass.
+2 partner's persona: i enjoy cooking on my patio over an open fire.
+3 partner's persona: i no longer work due to my age.
+4 partner's persona: i enjoy playing casino games.
+5 hey , i enjoy mowing lawns in the summer	hello . how are you ? my pet turtle and i are sitting here .
+6 my turtle and myself love to grill outside	mommy says to pick up toys . i do not like to . i want to play dolls !
+7 yeah , i've been retired for a long time ! years !	i want to go next door and play with my best friend , not work !
+8 yeah i wanna gamble , i go gambling when time permits	shame on you ! mommy says you should not gamble !
+9 she gambled on you , and did she get a bad kid ?	no she did not ! i am telling my mommy on you !
+10 tell her to get you to bed !	but i want to play dollies with my best friend !
+11 well i am not gonna play dollies with you !	well i do not wanna play with you either !
+12 good ! i hope you win the baby lottery !	i am sorry ! do not be mad at me !
+1 partner's persona: i like to relax.
+2 partner's persona: i am very excited to leave for college.
+3 partner's persona: i wish they would all just stop nagging me.
+4 partner's persona: i'm employed in the fast food industry.
+5 partner's persona: i'm squeaky clean when it comes to alcohol.
+6 how are you ? i am tired of my parents bothering me , hoping to move out soon .	i completely get it . my mom is way too traditional for me !
+7 i never drink or use drugs . i'm 19 and just want to see my friends .	i understand . when do you think you might be able to move ?
+8 not sure . i have a part time job at burger king . do you work ?	i do . i coach swimming at the pool near my house .
+9 awesome . my parents are just always on me about something . are you moving soon ?	i'm still in school . i cannot move until i finish my degree
+10 that must be tough . what do you study ?	i want to be a computer programmer . are you in school ?
+11 yes , i'm studying education and working part time .	that sounds interesting . do you like it ?
+12 yes , i love it . how are your courses ?	they're great . i really like the challenge . what do you want to teach ?
+13 i hope to teach elementary school . how much longer until you graduate ?	three more years . i feel like i wil never get out . how about you ?
+14 same for me ! looking forward to being done and out of my parents house !	things are so strict . my family is from india , so they just don't get it .
+1 partner's persona: i am very logical.
+2 partner's persona: i grow crops in the family fields.
+3 partner's persona: i've a farm animal as a buddy.
+4 partner's persona: my house is by a ton of farms and i own a ford pickup.
+5 partner's persona: i am selective in my tastes.
+6 hi . i'm billy . i work as an electrician in texas	i very rarely speak to people billy , because i'm so famous
+7 really ? how ? i do a lot of work on my mom and dads farm .	i am working on a robot so i can have company that does not annoy me .
+8 the only company i have is my pet cow .	i helped design starcraft . do you have time to play games without the cow
+9 no usually . i live in the country . just drive my big truck and listen to country music .	i do twitch streaming for fun , so we do not have much in common do we ?
+10 not much . i like pizza too !	i like pizza , one thing in common . i live inland because i am allergic to water
+11 really ? i didn't know that was possible ! how do you stay hydrated ?	very carefully , did you get flooded in texas ?
+12 no . i live more north . near dallas .	good ! i've not seen a person in 5 years , have my stuff delivered
+1 partner's persona: i enjoy visiting new places.
+2 partner's persona: i enjoy traveling in europe.
+3 partner's persona: i work in the public sector.
+4 partner's persona: i have lived a long life.
+5 partner's persona: i am almost done with working.
+6 hello . i love to read and my favorite books are the hunger games series . what about you ?	hi ! i am an olympic gymnast , i don't read much .
+7 that is exciting and must allow you to travel alot . ever been to spain ?	yes , i have . i picked up a lovely yellow blouse there .
+8 i hope to go back when i retire in a few years . how long before you retire ?	i've another two years before i can retire from gymnastics .
+9 what are your plans after retirement ?	i'd like to go to culinary school , i'm still young .
+10 i love to cook for my grandkids . i plan to travel more .	i mainly cook italian , and garlic bread .
+11 i'd love to travel to italy . i love baking cookies .	i'd love to be a pastry chef , i make earl grey shortbread a lot .
+12 i've never had earl grey shortbread only the tea .	i put it in the shortbread .
+1 partner's persona: while on school , i applied myself to the career i sought.
+2 partner's persona: i like country music boy bands.
+3 partner's persona: i have been playin my string box since the age of 3.
+4 partner's persona: we would always go to 6 flags on vacation when we were kids.
+5 hello ! i was three when i learned to play guitar !	hi i enjoy disney world and go every year
+6 that's great . i really like rascal flats . i think they played there before .	that's a good band . i love mickey mouse
+7 i actually grew up in the entertainment industry .	i am also in the 3rd grade
+8 wow . do you like national parks ? my family and i spent summers there .	no , i never have been . i like to go to the playground with friends
+9 i enjoyed that when was younger too . what is your family like ?	i also like frozen the movie and sing a long with it .
+10 great ! i like music too and that is why i play guitar .	that is awesome to hear !
+11 do you have a dog or cat ?	no , mom said i cannot have pets when i've my own place i can .
+12 do you have any brothers or sisters ?	i have a sister who is 10 years older than me
+1 partner's persona: i live life fully.
+2 partner's persona: i enjoy eating pastries.
+3 partner's persona: i like crafting things.
+4 partner's persona: i am a pet owner.
+5 hello , i'm sitting here with my dog . how are you ?	i'm well friend . looking for new employment at the moment .
+6 what would be your dream job ?	a writer . i am currently an er doctor .
+7 what was the worst accident you have seen in the er ?	a man had his throat slit in a home invasion
+8 that is very scary . i'd rather stick to my knitting passion .	i've a daughter who people say is a child prodigy
+9 what talents does she have ?	math ! i hate it ! lol . do you have children ?
+10 i have two children . they also enjoy math .	that's nice . what is your favorite movie ?
+11 my favorite movie is clueless .	mine is friday ! although i do love clueless too !
+12 do you think they will make another friday movie ?	oh i hope so ! that would be awesome .
+1 partner's persona: i enjoy playing casino games.
+2 partner's persona: i no longer work due to my age.
+3 partner's persona: i enjoy cooking on my patio over an open fire.
+4 partner's persona: i cut my own grass.
+5 hey how are you today	i am busy studying psychology for my graduate school class . you ?
+6 i have retired and now spend my time as a pro gambler	sounds cool ! i could be your dog walker when you are busy .
+7 well being retired i have a lot of spare time either in a casino or outdoors	i love the outdoors . i can survive in the wilderness for weeks
+8 yeah me to just got back from two weeks in the bush	did your parents teach you to survive like mine did ?
+9 my dad did he has his own outdoor show its possible you have seen it	i may have . what is it called ?
+10 jim shockey he has survived in places all over the world	i love that show ! i watch it between studying .
+11 yeah did not get to see him much as a child	that must have been hard . my parents were always hiking with me .
+12 that's nice must have been fun	it was fun . probably why i became a dog walker
+1 partner's persona: i plan on having my wedding in april.
+2 partner's persona: i like going to restaurants.
+3 partner's persona: i'm well past the drinking age.
+4 partner's persona: the person that sings bad blood is my most beloved musician.
+5 partner's persona: i enjoy children.
+6 hello there , how are you today ?	hello ! how has your day been ?
+7 great so far preparing my kindergarten lesson for tomorrow .	i only eat kosher foods
+8 what is your favorite ? i eat out alot with friends and some love kosher also .	i like kosher salt a lot
+9 no salt for me , at 24 i need to establish a healthy eating lifestyle .	i like kosher salt more then regular salt
+10 i'm slimming down to fit into a wedding dress in spring so salt is out .	you must be a hot milf
+11 ha , ha , ha . . . to young for milf . what type of music do you like ?	i like your music a lot
+12 so you are a big taylor swift fan as i am ?	i love my girl taylor
+13 yes she is a1 with her stuff , i love her new album . .	i know i love you too
+1 partner's persona: i've been employed for awhile.
+2 partner's persona: i enjoy car shows and wresting.
+3 partner's persona: i rebuild structures.
+4 partner's persona: i could eat taco bell all day.
+5 partner's persona: i could listen to classic rock all day.
+6 hi , kevin here . i love mexican food , aerosmith and nascar racing and a construction worker .	i'm a recording engineer myself . currently living in california
+7 great ! i wear a yellow construction worker hat to aerosmith concerts .	that sounds fun . i'd rather be inside though .
+8 wow ! what artists you work with ? i started working at sixteen as a construction model .	no one you know probably . the market was dead last year unfortunately .
+9 oh okay . you like car racing ? i do . i also like mexican pizza .	i love car racing . i'm not crazy about lawyers though .
+10 me too ! i wear a yellow construction hat and my dad is a lawyer . bummer huh ?	maybe he is the one that my ex left me for .
+11 oh wow . does your ex like aerosmith ? my dad and i do ?	i do not think so . i own my own studio and she tried to take it .
+12 bummer ! does your ex like mexican food and fast cars ? she could be my stepmom .	no she likes lies and cheating . lol
+13 funny . you think your ex would like construction workers ?	i'm 46 with kids , maybe she did not like that .
+1 partner's persona: i enjoy sports.
+2 partner's persona: i sell people their backup plans.
+3 partner's persona: i've learned to live with only one parent.
+4 partner's persona: my dad is deployed overseas.
+5 hello . my name is rob . how are you today ?	my name is kelly . i am well . how are you ?
+6 i'm sad today remembering my mom who died when i was a child .	i'm so sorry to hear that . my father also passed away . he drove for nascar .
+7 sorry to hear that . my dad is an army soldier .	i thank him for his service .
+8 thank you for saying that . what do you do for fun ?	i play with my german shepherd named barnaby . he is my baby .
+9 i love dogs . i play softball and i love it !	i played softball years ago . i am too busy working for the us postal service .
+10 that is a good job . i work in insurance . it also keeps me busy .	i live in the southwest and i am deathly afraid of scorpions . not a good mix .
+11 that sounds like quite the predicament .	it is . i do like it here aside from that .
+12 how is the weather there today ? it is cloudy and cool here in boston .	it is hot . but thankfully not humid today .
+1 partner's persona: liquor is the worst thing i can imagine.
+2 partner's persona: i despise shades in the rose family.
+3 partner's persona: i exercise for fun.
+4 partner's persona: previously , my dad was a tradesman.
+5 hello , how are you doing ?	hello . pretty good , thanks . and yourself ?
+6 awesome , i just got back from a bike ride .	cool ! do you spend a lot of time biking ?
+7 yup . its my favorite thing to do . do you ?	i love playing folk music . i actually hope to be a professional musician someday
+8 that's interesting . what instruments do you play ?	i can play the guitar and the piano and i also like to sing .
+9 i can only sing when i drink , but i don't like to do that anymore .	i m not a big drinker either . do you have a job ?
+10 construction , like my dad . what do you do when you are not being a rock star	nice ! i work as a custodian . not too glamorous but it pays the bills haha
+11 i feel ya . you gotta do what you gotta do .	exactly . do you have other hobbies besides biking ?
+1 partner's persona: my grandpa is a veteran.
+2 partner's persona: i work for the military.
+3 partner's persona: i reside in the far north of america.
+4 partner's persona: i think work experience can make up for not having a degree.
+5 hello ! where are you from ?	hey ! i am from nyc what about you ?
+6 i'm from a town outside vancouver .	so what brings you around here ? are you here for work ?
+7 actually i am on leave right now	oh okay . may i ask what your occupation is ?
+8 i serve in the canadian army , just as my grandfather did . how about you ?	i went to college for chemistry , but i actually work in a bookstore now .
+9 oh that is cool . i don't like reading though	i don't care for fashion as much as you dislike reading haha
+10 i hate reading so much i dropped out of high school !	must be a very strong dislike then . i actually have a strange disdain toward the color orange
+11 why do you hate orange ?	as a kid i was always bothered by this bright orange lamp my parents had
+12 that sounds scary . i was scared by my grandfather telling wwii stories	oh man must have been traumatizing . what do you do to relieve stress ?
+1 partner's persona: i have light features.
+2 partner's persona: i get annoyed with my roommate sometimes.
+3 partner's persona: in order to afford tuition i serve drinks in the evening.
+4 partner's persona: i'm a vegetarian.
+5 hello how are you doing ?	great , how are you doing today ?
+6 i am great . what do you like to do ?	watching horror movies is my favorite . how about you ?
+7 i'm more into comedies .	i see . what do you do for work
+8 i work at a bar . how about you ?	i used to work in hr , but now i stay home with my son .
+9 that sounds very nice . how old is your kid ?	he's in junior high . do you have any kids ?
+10 i do not . i am still working on building my future .	what do you want to do ?
+11 i am not sure . i am still doing my gen eds .	that sounds nice . do you have any family line of work that you can get in to ?
+1 partner's persona: i lose consciousness when i see human internal fluids.
+2 partner's persona: i don't like working with the public.
+3 partner's persona: i began college to become a vet but decided it wasn't for me.
+4 partner's persona: i like to look good.
+5 partner's persona: i stay in the world of warcraft.
+6 hey there how is it going ?	hello . all is moving great . and you ?
+7 i'm good just putting hair dye in	alright . i work in it . if you don't mind , what work are you into ?
+8 oh right how i am between jobs	the economic situation seem to be gradually picking up though
+9 cool , i'm addicted to the internet	since you are addicted to internet , do you watch a lot of american sports ?
+10 i play a lot of role playing games	ok . do you like dogs ?
+11 yeah dogs are pretty cool	do you think that the internet is pretty safe for children of late ?
+12 it can be but it ca be a danger too	ok . speaking about work , i have been at the same company for about 15 years
+13 that's actually pretty impressive	i kind of wonder why employees aren't keen on loyalty these days
+1 partner's persona: my wife works , so i take care of our children.
+2 partner's persona: for ten years i was employed in meeting peoples needs.
+3 partner's persona: my kid finished his elementary education last year.
+4 partner's persona: i dad was an employee of a big diy store.
+5 hello , what are you doing today ?	i am thinking about my upcoming retirement . how about you ?
+6 just raising my kids , i am a homemaking dad .	very cool . my kids are grown . i am already 60 years old .
+7 i'm not there yet . my oldest in a junior .	how old is your youngest ?
+8 she's 9 . i love them all . what work did you do before retiring ?	i work as a librarian , but i'm going to retire in the next couple of years .
+9 that is great , i spent ten years in human services .	did you stop when your eldest was born ?
+10 yes , i had to . i am glad to be home . my father helps out too .	why did you have to ?
+11 children need love , and my wife makes more money .	do your children like any interesting activities ?
+12 no , we just go to home depot on the weekends . my father was manager there .	do you like to travel ?
+1 partner's persona: i'm squeaky clean when it comes to alcohol.
+2 partner's persona: i like to relax.
+3 partner's persona: i wish they would all just stop nagging me.
+4 partner's persona: i am employed in the fast food industry.
+5 partner's persona: i am very excited to leave for college.
+6 hello . do you know of any apartments for rent ?	hi there . hmm i'm not familiar with any . which area are you looking ?
+7 jacksonville . i work at burger king and do not use drugs if that helps .	maybe you can expand your options if you find another career .
+8 i'm only 19 . just graduated .	congratulations . i work in construction , started when i was 16 . it is great money .
+9 that's cool . my friends and i work here , we are hoping to buy our own franchise .	wow that's ambitious . i hope you succeed . personally i prefer mexican food over burgers .
+10 i prefer seafood . my dad makes awesome fish tacos .	that sounds delicious . what type of music do you like ?
+11 metal . mainly metallica . i also love old school rap . tupac is where it is at .	nice . i listen to a lot of aerosmith , they're my favorite .
+12 i like them too . dream on is one of my favorites	great song . how long have you worked for burger king ?
+1 partner's persona: i like bright colors.
+2 partner's persona: i am an early riser.
+3 partner's persona: i own an aquarium.
+4 partner's persona: i am single now.
+5 hello , my name is ally and my favourite color is orange	do you know the game starcraft ? i helped designing it !
+6 that s awesome , i m sure my ex boyfriend would like that game	i usually stream the game on my twitch channel
+7 that s great , i also love twitch as well	i am making this robot right now that looks like me !
+8 i like hiking in the morning before sunset	i am kind of a nerd , i don't go out much and don't socialize .
+9 that s not bad at all	the worst part about my life is that i am allergic to water
+10 that s sad how do you drink	i have to drink another substance that contains particles of hydrogen and oxygen
+11 dang that kinda weird . well do you have a pet	yeah i've a cat , how about you ?
+12 i do a pet fish	that sounds awesome , but i've to go now , gotta start streaming . see ya !
+1 partner's persona: i'm religious.
+2 partner's persona: i'm employed in the education industry.
+3 partner's persona: i identify as a female.
+4 partner's persona: i have pets.
+5 hello , how are you tonight ?	what state are you ? i am in california , age 46
+6 i'm in ohio . 42 . single and a churchgoer . you ?	i'm good , and you ? i stay home all day and i like it
+7 that sounds boring . my dog would drive me crazy if i tried that .	i love to go to church too , it help me deal with my ex . .
+8 my ex is straight up crazy , there's no scripture that would help him .	she cheated me and stay with a lawyer
+9 that's horrible . i am single .	it takes the power of god to change people , my kids are great
+10 yes , the goddess can change people .	me too , i'm a single dad , i do recordings in my studio
+11 that sounds like fun , what kind of music ?	what do you do ? do you want to meet me ?
+12 i'm sorry , i'm too busy to date .	i record soft rock and light jazz
+1 partner's persona: i enjoy both burgers and fried potatoes.
+2 partner's persona: i have a significant other.
+3 partner's persona: i own a home.
+4 partner's persona: the only soft drinks i use are water , juice , water , tea , water and coffee.
+5 hi there ? hows it goin ? whatcha havin for lunch today ?	i am going to have pizza after meditation
+6 me , burgers and fries every day . meditation , who ! whats that like ?	it is like going to a peaceful place
+7 i am at peace just bein in my house with my boyfriend . anything else you like ?	i used to like to talk
+8 not anymore ? not at all ? why not ?	i have been silent for months now
+9 oh , i get it . buddhist monk , eh ?	something like that . where do you live
+10 in my house , with my boyfriend . how come you can chat if you can't speak ?	i'm not allowed to vocalize
+11 ok . where do you live ? in a monastery ?	i am thinking about it
+12 any other cool thoughts ? what do you think about when you meditate ?	i wish for world peace
+1 partner's persona: i like to tinker with machines.
+2 partner's persona: i love making my way up tall natural structures.
+3 partner's persona: i have a dog.
+4 partner's persona: i am a westerner.
+5 partner's persona: i enjoy seeing nature wake up after winter.
+6 hello ! how are you today ?	i'm good ! just finished working . you ?
+7 i'm great ! i just got back from a walk with my dog ! how was work ?	it was tiring . trying to get the fields harvested for winter .
+8 oh you are a farmer ? what do you grow ? winter is coming too soon !	we grow corn and soybeans at my parents farm . what dog do you have ?
+9 he's a black lab named is trooper , he's a great hiking buddy !	cute ! where do you hike ? my pet won't travel . she's a cow
+10 i hike in the mountains here in colorado near pueblo . are there mountains near you ?	no i live in the middle of no where . miles of country .
+11 where is the middle of no where ? i live near denver for work .	pennsylvania . amish country . i feel out of place driving my big truck next to buggies
+12 i would be afraid of hitting them with my car !	yeah . that is why i blast my country music . they hear me coming !
+13 haha ! i like to listen to garth brookes when i am rock climbing at the gym !	oh wow ! i never did that before ! sounds fun !
+1 partner's persona: i have all boys.
+2 partner's persona: i teach young kids how to play softball.
+3 partner's persona: i drink to help relax.
+4 partner's persona: i need lots of space in a car.
+5 partner's persona: i drink espresso.
+6 i see you laughing there . you better not be laughing at my mini van .	i'd never do that . i hate my grey dog barnaby and scorpions .
+7 my fourth son hates scorpions too . i don't understand my children .	keep trying . i like grey vans but a nascar car killed my daddy .
+8 sounds like he liked a glass of wine in the evenings .	he does . barnaby is grey , a german shepherd and he hates scorpions too .
+9 kids these days . scorpions are the only thing i ever hear about while coaching .	mom says we are going to sue nascar for killing daddy .
+10 if you can you should go for it . toss me some coffee money when it comes through .	sure , but you have to get in line . my grey dog barnaby is dying too .
+11 you know my fifth son keeps asking me for a dog . it is just too much .	he can have mine . barnaby needs a new home .
+12 i've to decline , my fifth son is my least favorite ; we keep him in the attic .	oh okay . does he play with scorpions or dogs ?
+13 our scorpion pit is located in the basement .	great ! my dad died in a scorpion pit while driving a nascar car . you dance ?
+1 partner's persona: i've no history of being monogamous.
+2 partner's persona: i recently bought a ferrari.
+3 partner's persona: i am employed from my primary place of residence.
+4 partner's persona: when i'm not busy , i excessively consume entertainment media.
+5 hello how are you today ?	good you ? coloring my adult coloring book , do you like them ?
+6 no i think they are for whinny illiterate millennials	well how rude of you . where do you live ?
+7 in nyc i work from my condo	glad we don't live close . i'm from a rural part of the u . s . , we farm .
+8 cars is what i spend everything on	that's cool . do you like hockey ?
+9 i love it all those pucks	i do too . especially nhl . have any pets ?
+10 i've dogs and cats	i've one dog , he is a german shepherd .
+11 do you like fruits or veggies better ?	fruits , what about you ?
+12 i really like oranges a lot	they are decent ! my favorite is strawberries .
+1 partner's persona: i might be a bird.
+2 partner's persona: i no longer work due to my age.
+3 partner's persona: i cut my own grass.
+4 partner's persona: i enjoy cooking on my patio over an open fire.
+5 partner's persona: i enjoy playing casino games.
+6 hi how are we doing this late night in october ?	i am great ! just been looking on twitter at news
+7 yes let us get to know each other bit that's cool .	tell me about yourself ?
+8 i like to gamble on my spare nights not cool huh .	depends if you win or not lol
+9 yes it sucks loosing i also enjoy lawn mowing on sunny days .	i enjoy green living and just put solar panels on roof
+10 sounds interesting i also love grilling my food outdoors .	yummy , i love cookouts . i am involved women rights movement
+11 that's good i've not been working for a few years .	i work from home doing internet searches
+12 great wished i could get a work at home job .	it has its benefits . i've plenty time tend my organic garden
+13 that sounds interesting i like organic foods .	they're so healthy for you
+1 partner's persona: i like country music boy bands.
+2 partner's persona: i've been playin my string box since the age of 3.
+3 partner's persona: while on school , i applied myself to the career i sought.
+4 partner's persona: i am lee brice.
+5 hello , how are you doing tonight ?	good , how are you tonight ?
+6 i am great , just chillin playing some guitar	awesome , what are you playing ?
+7 hank williams . . . . i grew up on country music	i like country too ! i'm kinda tired tonight from a long day at the shipyard .
+8 oh yea ? what do you do there ?	i am newly retired from the navy . i am a captain
+9 very cool . . . i sing for a living !	that is amazing ! living the dream huh ?
+10 yes , absolutely ! gonna make it big one day	i hope you do ! my passion is making a difference in the world .
+11 that's amazing . we need more people like that !	do you volunteer with any charities
+12 sadly , no i don't	i highly encourage you to , especially after you make it big !
+1 partner's persona: i enjoy giving back to my community.
+2 partner's persona: my dad is a musician.
+3 partner's persona: i am very musical.
+4 partner's persona: i like seeing different places in a town.
+5 hi how are you	i'm doing well today
+6 do you like playing musical instruments ?	i like the drums a lot
+7 i play several and my father played violin ! what else do you like ?	i can tell you what i do not like
+8 what do you not like ?	school . i really really do not like it
+9 i do not like school much either	at least we are on the same page
+10 do you like volunteering anywhere in your city ?	i do not like people
+11 i like people and exploring new places in the city . do you like animals ?	i do . they're quiet and peaceful .
+12 that is awesome . is there anything else you like or don't like ?	i don't like people
+1 partner's persona: i love dungeons and dragons.
+2 partner's persona: my vehicle is older model car.
+3 partner's persona: krispy kreme is the best snack ever.
+4 partner's persona: i like hard rock.
+5 partner's persona: my friends and i enjoy video games.
+6 hello , call of duty is my favorite game . do you game ?	yes i do after all i am a engineer .
+7 nice . my cousin is an engineer and hates video games . but i love donuts .	i'm actually a recording engineer . do you have kids ?
+8 so is my cousin , so cool ! no kids , but i do love icp , the band .	oh ok . i'm a single dad . and my recording artist died last year . bad luck !
+9 wow , you ok ? did your artist use a ford pinto ? that's what i drive .	i'm fine . he just had a n accident here in california .
+10 i do live rpg events over the weekends .	that is cool . i am 46 how about you ?
+11 i turn 83 in a month .	. oh wow . are you retired ?
+12 no , i professionally stream on twitch .	oh i have never heard of that .
+13 it is a streaming platform for gamers .	oh ok , i guess i don't know much on the music side .
+1 partner's persona: i used to do pole vault.
+2 partner's persona: olive garden is my favorite restaurant.
+3 partner's persona: i love sunny toned shades.
+4 partner's persona: i really like performing handstands and back flips on the balance beam.
+5 partner's persona: i go to the gym for long periods of time.
+6 hi lets get to know each other	that sounds awfully familiar to me .
+7 do you enjoy sports much ?	i football is the best . go alabama tide !
+8 football is good . i prefer solo stuff . i am a gymnast	i've a brother and 3 sisters
+9 are you guys close ? i am an only child	no we are not , i am more closer to my dogs honestly
+10 too bad . but at least you have them , what breeds ?	ok i'll be sure too
+11 what kinds of dogs are they ?	i already told that to you
+12 sorry i only see that you are close to them	ok then . well its been nice chatting with you
+13 i guess you too . are you leaving now ?	thought this was over , guess not
+1 partner's persona: i've lived a century.
+2 partner's persona: i enjoy alcohol and being in nature.
+3 partner's persona: i think i'm immortal sometimes.
+4 partner's persona: i might be young but i can lift very heavy weights.
+5 hello ! how are you today ?	my favorite type of music is from the south
+6 awesome ! i really like dancing to that kind of music , especially in the moonlight .	i'm the head worker of a small store
+7 very nice , what does your store sell ?	my store sells everything you could possibly need !
+8 great , are there weights ? i am strong for my age , but would like to get stronger	there are weights for sure !
+9 guess how old i'm !	i'm not sure ? how old are you ? ! ?
+10 i'm 100 ! i feel like at this point , i might live forever .	i've a very nice car ! it is a pathfinder by the company nissan !
+11 nice , when did you get it ?	i got it this year ! i love it
+1 partner's persona: i go do competitions with my husky.
+2 partner's persona: i'm a dancer.
+3 partner's persona: i got my degree as a chemist but i currently am employed at a book shop.
+4 partner's persona: i love red.
+5 partner's persona: i wear whatever i want , regardless of style.
+6 hello friend , have you ever seen dog agility ? it is my favorite sport !	i haven't it sounds interesting
+7 i compete at it , when i am not dancing	cool ! my only pet is a cow
+8 are you a dairy farmer or something like that ?	yes my parents are , i work for them
+9 cool . i do not care for fashion , but i do wear western clothes when i line dance	i live line dancing to country music , that is all i listen too
+10 me too . i discovered my love for it while getting my degree in chemistry .	cool ! i am always playing country in my big truck !
+11 it was the only station i could get in my laboratory , and now i am hooked	lol chemistry seems like an interesting career .
+12 i'd not know , i work at a book store now .	cool , do you like to read ?
+13 love it . james joyce is my favorite author .	awesome , i hardly ever read .
+1 partner's persona: i am an animal lover.
+2 partner's persona: my wife is a pediatrician.
+3 partner's persona: my home has many floors.
+4 partner's persona: we are expecting a baby.
+5 hello how are you today ?	exhausted ! i was out clubbing all weekend . my legs are tired from grinding .
+6 really i've not done that in years , i am just a lonely	are you ok ? i know chemistry . i could make you an aspirin !
+7 i'm ok my husband is a doctor so i can get any medicine i want	wow , good for him . i just work in a bookstore . . .
+8 oh wow that cool , you get free knowlege	i majored in chemistry so i already have enough knowledge for a lifetime .
+9 really that's awesome do you have a girlfriend ?	no . all of the girls here wear orange . i hate orange .
+10 do you want one ? i could leave my husband for you	wow that is saucy . just one rule wear anything you want but orange things .
+11 that's my favorite color though , can you handle my three story mortgage	i am already deep in student loans , so i do not care !
+12 whats your average salary i need to know since my family grows	about 15k . i spend most of that on weekend clubs and raves though .
+1 partner's persona: i love competing in 4 h contests.
+2 partner's persona: i need background noise when i work.
+3 partner's persona: i mow the lawn.
+4 partner's persona: i've money for expensive pets.
+5 hi , just got back from riding my horse ! you ?	hey , i am in high school and i want to be a physical therapist .
+6 good for you ! i do some farming , so i might be calling you !	awesome ! i make all as in school so i could help you !
+7 great , i hope you like music , i rock out when i work !	yes , i love music ! so we can definitely rock out .
+8 i have a couple horses , and they like to rock , too !	cool ! i am a homecoming queen that loves horses .
+9 you must be very popular and a good person , too .	yes , i set a goal to actually run a k this year too !
+10 i get my exercise tending the farm !	i am sure you do ! i bet it is fun there !
+11 come run a few laps here , it is quite a few acres !	i just might do that ! i want to achieve my goal of running a k !
+12 i am sure you'll succeed and win the race , too !	i hope so ! after i get out of high school i want to run more !
+1 partner's persona: i'm going through a divorce.
+2 partner's persona: i'm a nurse at an elder care facility.
+3 partner's persona: i am a spiritual agnostic.
+4 partner's persona: i eat way too much.
+5 hello . my wife left with the kids two weeks ago .	i understand because i've dogs too .
+6 i'm an rn in a nursing home . we have dogs there .	i hate dogs but love to knit its kind of my passion
+7 the ladies here knit , while watching the pastors on tv . i am an atheist .	you are just scared of dying like me . that's why only love baking cookies .
+8 no , i am not . i work with dead people all the time .	sure . . . i am heading back home to the country so i can enter a bake sale .
+9 i'm overweight , bake sales are not a good idea for me .	i don't think we should be friends
+10 i didn't realize we had to be .	i just wanted to stop talking to you really
+11 then do not respond , no rule says you have to speak to everyone that says hello .	rules ? what rules are you talking about dude , no cookies for you
+12 wow . you may want to see a therapist with all of that anger you have .	i love cookies and bake sale but you are freaking me out .
