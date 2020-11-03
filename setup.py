@@ -16,7 +16,7 @@ setup(
                                     "tests.*", "tests"]),
     install_requires=['allennlp>=0.8.3',
                       'pytorch-pretrained-bert',
-                      'spacy>=2.1.0,2.2.0',
+                      'spacy~=2.1.0',
                       'scikit-learn',
                       'pandas',
                       'seaborn',
