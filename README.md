@@ -4,7 +4,7 @@ published in NAACL'19.
 
 # DialogEntailment
 
-[![CircleCI](https://circleci.com/gh/nouhadziri/DialogEntailment.svg?style=svg)](https://circleci.com/gh/nouhadziri/DialogEntailment)
+<!-- [![CircleCI](https://circleci.com/gh/nouhadziri/DialogEntailment.svg?style=svg)](https://circleci.com/gh/nouhadziri/DialogEntailment) -->
 
 DialogEntailment is a microframework to automatically evaluate coherence in dialogue systems. Our implementation includes the following metrics:
  - __Semantic Similarity__, derived from [\[Dziri et al., 2018\]](https://arxiv.org/abs/1811.01063), estimates the correspondence 
