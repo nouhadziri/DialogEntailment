@@ -113,10 +113,21 @@ To pass your own human judgment file, use `--human_judgment <PATH_TO_PICKLE_FILE
 ## Citation
 Please cite the following paper if you used our work in your research:
 ```
-@article{dziri2019evaluating,
-  title={Evaluating Coherence in Dialogue Systems using Entailment},
-  author={Dziri, Nouha and Kamalloo, Ehsan and Mathewson, Kory W and Zaiane, Osmar},
-  journal={arXiv preprint arXiv:1904.03371},
-  year={2019}
+@inproceedings{dziri-etal-2019-evaluating,
+    title = "Evaluating Coherence in Dialogue Systems using Entailment",
+    author = "Dziri, Nouha  and
+      Kamalloo, Ehsan  and
+      Mathewson, Kory  and
+      Zaiane, Osmar",
+    booktitle = "Proceedings of the 2019 Conference of the North {A}merican Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long and Short Papers)",
+    month = jun,
+    year = "2019",
+    address = "Minneapolis, Minnesota",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/N19-1381",
+    doi = "10.18653/v1/N19-1381",
+    pages = "3806--3812",
+   ,
 }
+
 ```
