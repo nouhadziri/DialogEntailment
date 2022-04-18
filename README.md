@@ -127,7 +127,6 @@ Please cite the following paper if you used our work in your research:
     url = "https://aclanthology.org/N19-1381",
     doi = "10.18653/v1/N19-1381",
     pages = "3806--3812",
-   ,
 }
 
 ```
