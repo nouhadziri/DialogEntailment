@@ -39,8 +39,8 @@ python -m spacy link en_core_web_lg en
 ## Dataset
 We build a syntenthized entailment corpus, namely InferConvAI, 
 from the ConvAI dialogue data [\[Zhang et al., 2018\]](https://arxiv.org/abs/1801.07243), described in details in the paper. The dataset is formatted in both tsv (similar to [MultiNLI](https://www.nyu.edu/projects/bowman/multinli/)) and jsonl (following [SNLI](https://nlp.stanford.edu/projects/snli/)). To download InferConvAI, please use the following links:
- - [InferConvAI_v1.3_tsv.tgz](https://s3.ca-central-1.amazonaws.com/ehsk-research/data/InferConvAI/InferConvAI_v1.3_tsv.tgz) (84MB download / 236MB uncompressed)
- - [InferConvAI_v1.3_jsonl.tgz](https://s3.ca-central-1.amazonaws.com/ehsk-research/data/InferConvAI/InferConvAI_v1.3_jsonl.tgz) (74MB download / 274MB uncompressed)
+ - [InferConvAI_v1.3_tsv.tar.gz](https://drive.google.com/file/d/16mxLm1fqkguYVjUibU10D99Ns3L5VgKm/view?usp=sharing) (84MB download / 236MB uncompressed)
+ - [InferConvAI_v1.3_jsonl.tar.gz](https://drive.google.com/file/d/1yeU7yHzFBs93UkMHtN2uq_rv_nLrD8mF/view?usp=sharing) (74MB download / 274MB uncompressed)
  
 Check out [convai_to_nli.py](dialogentail/preprocessing/convai_to_nli.py) to see how the synthesized inferenece data is generated from the utterances. 
  
@@ -51,8 +51,7 @@ We adopt two prominent models that have shown promising results in commonsense r
 ```bash
 training/allennlp.sh -s <MODEL_DIR> [--overwrite] [--config <CONFIG_FILE>]
 ```
-- BERT [\[Devlin et al., 2018\]](https://arxiv.org/abs/1810.04805): We fine-tuned a pre-trained BERT model using [this](https://github.com/huggingface/pytorch-pretrained-BERT) 
-library provided by Huggingface. We modified [run_classifier.py](https://github.com/huggingface/pytorch-pretrained-BERT/blob/master/examples/run_classifier.py) to support the entailment task. Here is how to train the model, followed by other arguments that can be passed to the program: 
+- BERT [\[Devlin et al., 2018\]](https://arxiv.org/abs/1810.04805): We fine-tuned a pre-trained BERT model using :hugs: [Transformers](https://github.com/huggingface/pytorch-pretrained-BERT) (when it was called, `pytorch-pretrained-BERT`). We modified [run_classifier.py](https://github.com/huggingface/pytorch-pretrained-BERT/blob/master/examples/run_classifier.py) to support the entailment task. Here is how to train the model, followed by other arguments that can be passed to the program: 
 ```bash
 python -m dialogentail.huggingface --do_eval --do_train --output_dir <MODEL_DIR>
 ```
